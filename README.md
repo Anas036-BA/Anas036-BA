@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**Anas036-BA/Anas036-BA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Anas
 
-Here are some ideas to get you started:
+🎓 MBA Student ,JNTUK
+📊 Aspiring Business & Data Analyst  
+💻 Learning Power BI, SQL, Excel & Business Intelligence  
+📍 Pokkunuru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I am passionate about transforming raw data into meaningful insights through data analysis and visualization. Currently building my skills in Power BI, SQL, Excel, and Business Intelligence to pursue a career in Business & Data Analytics.
+
+---
+
+## 🛠 Skills & Tools
+- Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+- Data Visualization
+- Business Intelligence
+- Financial Analysis
+
+---
+
+## 📌 Featured Project
+### AdventureWorks Sales Analytics Dashboard
+An interactive Power BI dashboard developed to analyze:
+- Sales Performance
+- Customer Insights
+- Product Trends
+- Regional Analysis
+- Revenue & Profit Trends
+
+🔗 Project Repository:
+[https://lnkd.in/g78rZhWd]
+
+---
+
+## 🌱 Currently Learning
+- Advanced DAX
+- SQL Queries
+- Advanced Excel
+- Dashboard Storytelling
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/anas-shaik-b48574386]
+- GitHub: https://github.com/Anas036-BA
+
+---
+
+⭐ “Learning never stops when curiosity leads the journey.”
