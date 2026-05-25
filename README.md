@@ -35,7 +35,7 @@ An interactive Power BI dashboard developed to analyze:
 - Revenue & Profit Trends
 
 🔗 Project Repository:
-[https://lnkd.in/g78rZhWd]
+[https://github.com/Anas036-BA/adventureworks-powerbi-dashboard.git]
 
 ---
 
