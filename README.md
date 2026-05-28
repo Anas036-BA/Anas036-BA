@@ -21,7 +21,7 @@ I am passionate about transforming raw data into meaningful insights through dat
 - DAX
 - Data Visualization
 - Business Intelligence
-- Financial Analysis
+  
 
 ---
 
