@@ -29,7 +29,7 @@ I am passionate about transforming raw data into meaningful insights through dat
 ### AdventureWorks Sales Analytics Dashboard
 An interactive Power BI dashboard developed to analyze:
 - Sales Performance
-- Customer Insights
+- Customer Insights 
 - Product Trends
 - Regional Analysis
 - Revenue & Profit Trends
